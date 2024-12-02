@@ -42,6 +42,7 @@ trusted_clients =
 	192.168.0.0/16
 	FE80::/10
 	::1/128
+	100.0.0.0/8
 	100.98.163.68
 
 [update_manager KlipperScreen]
