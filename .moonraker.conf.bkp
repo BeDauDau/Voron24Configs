@@ -119,3 +119,10 @@ primary_branch = main
 managed_services = klipper
 system_dependencies = wiki/packages.json
 
+[update_manager fan_calibrate]
+type = git_repo
+path = /home/pi/fan_calibrate
+origin = https://github.com/SkyTech3D/fan_calibrate.git
+primary_branch = main
+managed_services = klipper
+
