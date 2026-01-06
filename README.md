@@ -1,6 +1,12 @@
-# Voron24Configs
+# VORON 2.4  
+
 My 3D Printer Backup Config
-# Tree Structure
+
+- SHEET METAL MONOLITH GANTRY AWD
+- DOOMCUBE
+- DK's TOOLHEAD
+
+# TREE STRUCTURE
 ```
 Voron24Configs/
 ├── 📄 Core Configuration Files
